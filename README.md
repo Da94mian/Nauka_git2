@@ -11,3 +11,7 @@ edytujemy znowu
 Teraz chyba konczymy
 
 No nie to jeszcze nie był koniec
+
+Nowy branch
+
+Teraz jeszcze jeden
