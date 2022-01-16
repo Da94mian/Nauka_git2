@@ -9,3 +9,5 @@ edytujemy znowu
 #Tu powinien byc kolejny edit
 
 Teraz chyba konczymy
+
+No nie to jeszcze nie był koniec
