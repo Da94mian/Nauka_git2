@@ -7,3 +7,5 @@ Coscoscos
 edytujemy znowu
 
 #Tu powinien byc kolejny edit
+
+Teraz chyba konczymy
